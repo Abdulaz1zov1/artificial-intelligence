@@ -1,0 +1,16 @@
+Botni nomi: ElonberBot
+
+Vazifasi: 
+    Quyidagi ma'lumotlarni to'ldirish orqali 
+    bot ulangan kanalga avtomatik tarzda e'lonlarni joylashtiruvchi bot.
+
+    1. E'lon nomi
+    2. E'lon turi
+    3. Aloqa(Contact)
+    4. Qo'shimcha ma'lumot
+    5. Rasm
+
+
+Kanal_id raqami: @elonbor_bepul
+Bot token 5050147856:AAHicOIERWg9KK2prgT7un3sIcale5VvLQA
+

@@ -1,0 +1,1 @@
+print("Harakatda - barakat!")

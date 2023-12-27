@@ -1,0 +1,7 @@
+1 | Zafar | Tadbirkor | 996405599 | 
+2 | Erkin | O'qituvchi | 996097087 | 
+3 | Alisher | Sotuvchi | 933099353 | 
+4 | Muhriddin | Dasturchi | 903750636 | 
+5 | Sayfiddin | Manager | 900072763 | 
+6 | Odina | Speaker | 907778899 | 
+7 | Ali | Superman | 777777777 | 

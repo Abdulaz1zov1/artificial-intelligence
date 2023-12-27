@@ -1,0 +1,1 @@
+print("hamma joy test bo'lib ketti")
